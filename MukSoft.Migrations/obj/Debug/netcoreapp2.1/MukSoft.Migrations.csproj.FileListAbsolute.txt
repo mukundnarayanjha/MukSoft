@@ -1,0 +1,14 @@
+D:\DotNetCore\MukSoft\MukSoft.Migrations\bin\Debug\netcoreapp2.1\MukSoft.Migrations.deps.json
+D:\DotNetCore\MukSoft\MukSoft.Migrations\bin\Debug\netcoreapp2.1\MukSoft.Migrations.dll
+D:\DotNetCore\MukSoft\MukSoft.Migrations\bin\Debug\netcoreapp2.1\MukSoft.Migrations.pdb
+D:\DotNetCore\MukSoft\MukSoft.Migrations\obj\Debug\netcoreapp2.1\MukSoft.Migrations.csproj.CoreCompileInputs.cache
+D:\DotNetCore\MukSoft\MukSoft.Migrations\obj\Debug\netcoreapp2.1\MukSoft.Migrations.AssemblyInfoInputs.cache
+D:\DotNetCore\MukSoft\MukSoft.Migrations\obj\Debug\netcoreapp2.1\MukSoft.Migrations.AssemblyInfo.cs
+D:\DotNetCore\MukSoft\MukSoft.Migrations\obj\Debug\netcoreapp2.1\MukSoft.Migrations.dll
+D:\DotNetCore\MukSoft\MukSoft.Migrations\obj\Debug\netcoreapp2.1\MukSoft.Migrations.pdb
+D:\DotNetCore\MukSoft\MukSoft.Migrations\bin\Debug\netcoreapp2.1\MukSoft.Core.dll
+D:\DotNetCore\MukSoft\MukSoft.Migrations\bin\Debug\netcoreapp2.1\MukSoft.Core.pdb
+D:\DotNetCore\MukSoft\MukSoft.Migrations\obj\Debug\netcoreapp2.1\MukSoft.Migrations.csproj.CopyComplete
+D:\DotNetCore\MukSoft\MukSoft.Migrations\bin\Debug\netcoreapp2.1\MukSoft.Migrations.runtimeconfig.json
+D:\DotNetCore\MukSoft\MukSoft.Migrations\bin\Debug\netcoreapp2.1\MukSoft.Migrations.runtimeconfig.dev.json
+D:\DotNetCore\MukSoft\MukSoft.Migrations\obj\Debug\netcoreapp2.1\MukSoft.Migrations.csprojAssemblyReference.cache

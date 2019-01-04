@@ -1,0 +1,1 @@
+2018-11-23 00:40:25.042 +05:30 Warning:{ Id: 3 } [Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
